@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(233, 233, 233);
+}
+
+.most-important-news .card,
+.latest-news .card {
+  box-shadow: -4px 6px 7px 1px lightgray;
+}
+
+.full-news .card {
+  width: 70%;
+  margin: 20px auto;
+}
+
+.navbar-light .navbar-nav a.nav-link {
+  color: black;
+}
